@@ -1,0 +1,4 @@
+relative_decision_risk epsilon < 67/6450 n per row >= 33700 total 404400
+opposite_risk_signs epsilon < 1/300 n per row >= 327258 total 3927096
+all_ranking_and_signs epsilon < 33/17200 n per row >= 987818 total 11853816
+PASS: R535 exact margins, ternary TV identity, three sample-size thresholds

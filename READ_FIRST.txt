@@ -1,0 +1,9 @@
+Information guarantees for scientific conclusions from measurements
+Research code and reviewer demonstration
+
+1. Run `python Demo/run_all_demos.py` (or double-click `Run_Demo_Windows.bat` on Windows with Python installed).
+2. Compare the demonstration results with `Demo/EXPECTED/` and read `README.md` for installation, timing and custom-input instructions.
+3. All 43 original analysis and figure-source scripts are included in `Scripts/`, with source provenance in `SOURCE_MANIFEST.json`.
+4. The study's full empirical results were completed and reported in the manuscript and Supporting Information. Original datasets are listed in the Data Availability statement. For additional full-data verification or input mappings, reviewers may request available supporting materials and instructions from the corresponding author.
+
+The prefixes in `Scripts/` indicate listing order rather than execution order. The archived R source includes the study's tie-handling correction.

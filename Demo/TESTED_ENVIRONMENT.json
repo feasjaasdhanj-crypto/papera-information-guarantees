@@ -1,0 +1,37 @@
+{
+  "test_date": "2026-11-10",
+  "scope": "compact demo only; not a full empirical pipeline test",
+  "python": "3.13.5",
+  "system": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "architecture": "x86_64",
+  "verified_imported_package_versions_for_reviewer_example": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "PyMuPDF": "1.26.7"
+  },
+  "original_source_count": 43,
+  "original_source_sha256_verified": true,
+  "each_original_python_source_compiles": true,
+  "all_four_compact_demo_checks": "PASS",
+  "five_separate_full_demo_run_seconds": [
+    3.3074,
+    3.2351,
+    3.3585,
+    3.0842,
+    3.2904
+  ],
+  "five_run_median_seconds": 3.2904,
+  "five_run_min_seconds": 3.0842,
+  "five_run_max_seconds": 3.3585,
+  "own_custom_3x3_valid_prior_input_test": "PASS",
+  "invalid_probability_row_rejected": "PASS",
+  "R_tested": false,
+  "Windows_tested": false,
+  "macOS_tested": false,
+  "full_empirical_replay_tested": false,
+  "reference_certificates_sha256": "280a5d40496c4afbb3ad2336074e8fd69e95a4a3b7f389f44a0df1a3e44fa780"
+}

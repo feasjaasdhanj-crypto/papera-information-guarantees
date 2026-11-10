@@ -1,0 +1,11 @@
+# Example numerical Python environment for reviewers of the archived analysis sources.
+# The executable compact demo uses Python's standard library only.
+# Exact versions tested for import on Linux / CPython 3.13.5 are listed below;
+# the original historical environment versions were not completely archived.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+statsmodels==0.14.6
+matplotlib==3.10.8
+PyMuPDF==1.26.7

@@ -1,0 +1,11 @@
+{
+  "exact_primal_dual_certificates_passed": 16,
+  "A_full": "3/86",
+  "A_local": "1/430",
+  "B_full": "1/100",
+  "B_local": "1/100",
+  "A_classification_loss_Q_minus_P": "3/86",
+  "B_classification_loss_Q_minus_P": "-1/150",
+  "one_slot_regret_local_vs_full": "134/3225",
+  "all_pass": true
+}

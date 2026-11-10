@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "scope": "compact exact-mathematics and 3x3-decision-risk demo only",
+  "python_version": "3.13.5",
+  "operating_system": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "architecture": "x86_64",
+  "tests": [
+    {
+      "name": "exact_certificates",
+      "result": "PASS",
+      "elapsed_seconds": 0.646209
+    },
+    {
+      "name": "finite_sample_bounds",
+      "result": "PASS",
+      "elapsed_seconds": 0.668826
+    },
+    {
+      "name": "three_state_decision_risk",
+      "result": "PASS",
+      "elapsed_seconds": 0.697398,
+      "input": "Demo/INPUT/example_matrices.json"
+    },
+    {
+      "name": "panel_alignment_self_test",
+      "result": "PASS",
+      "elapsed_seconds": 0.638339
+    }
+  ],
+  "total_demo_subprocess_seconds": 2.650772,
+  "expected_demo_input_sha256": "280a5d40496c4afbb3ad2336074e8fd69e95a4a3b7f389f44a0df1a3e44fa780"
+}

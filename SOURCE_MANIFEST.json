@@ -1,0 +1,260 @@
+[
+  {
+    "depth": 0,
+    "path": "05_REPLAY_CODE/R546_REPLAY_SIX_SOURCE_ONE_COMMAND.py",
+    "bytes": 6064,
+    "sha256": "b7738d08b3f4c40d4ca5bb097d84bd7fd508658a4ff1a1db2695f9155ec43a24"
+  },
+  {
+    "depth": 1,
+    "path": "04_PYTHON_AUDIT/R544_fair_budget_independent_replay.py",
+    "bytes": 8597,
+    "sha256": "a73b59caa5d4f3613c3bdce32f2da73acf514589a76fb73cb1f04ebe956bf1ba"
+  },
+  {
+    "depth": 1,
+    "path": "04_PYTHON_AUDIT/R544_make_science_artifacts.py",
+    "bytes": 11422,
+    "sha256": "6b17612f1a05ce4d108995571f24382653de77f6bf0107ba7fd9a777a58ea8a4"
+  },
+  {
+    "depth": 3,
+    "path": "05_ANALYSIS_CODE/R542_equal_labels.py",
+    "bytes": 3457,
+    "sha256": "5528108eccf62054ab7eaf7bb3ec3c52a9767304a66359ebbb84d47257cd1b04"
+  },
+  {
+    "depth": 3,
+    "path": "05_ANALYSIS_CODE/R542_individual_risks.py",
+    "bytes": 3797,
+    "sha256": "759ea6502f245c0650a62f34473831a8c7f71ed5478c095829218b8d1f9ce3dd"
+  },
+  {
+    "depth": 3,
+    "path": "05_ANALYSIS_CODE/R542_inference.py",
+    "bytes": 3637,
+    "sha256": "401efd86936f3eb1779cd06d81b5cd2515a4eecb08cf2193b9fa0be5207b194c"
+  },
+  {
+    "depth": 3,
+    "path": "05_ANALYSIS_CODE/R542_validation_label_efficiency.py",
+    "bytes": 3179,
+    "sha256": "c919d6b4e5703c8c4c64c5169b326fadb3c37ecd7cb8c9069b802bdc2086d74d"
+  },
+  {
+    "depth": 3,
+    "path": "05_ANALYSIS_CODE/R542_label_budget_aggregate.py",
+    "bytes": 3365,
+    "sha256": "2d9c8f60c3d312b35bc8373ffae52e2a1250c7db3407e64c4fa8df955425da12"
+  },
+  {
+    "depth": 4,
+    "path": "05_ANALYSIS_CODE/R540_feature_assembly.py",
+    "bytes": 828,
+    "sha256": "bb32583ace8f82bfc044b52860403fe6b16c619e4330736e85633ef1baec308f"
+  },
+  {
+    "depth": 4,
+    "path": "05_ANALYSIS_CODE/r540_eeg_analysis.py",
+    "bytes": 9994,
+    "sha256": "e4d8c936f5bef4971454bba4f07bd373efb4d35f465f631204c2f004df008835"
+  },
+  {
+    "depth": 4,
+    "path": "05_ANALYSIS_CODE/r540_nested5fold_single.py",
+    "bytes": 6205,
+    "sha256": "b3d8c0f1a4f132be7463bd9b8991479a1a631c39f6888a2c16597c5a2cdff63f"
+  },
+  {
+    "depth": 4,
+    "path": "05_ANALYSIS_CODE/r540_nested5fold_RAW_single.py",
+    "bytes": 6169,
+    "sha256": "491f606e946df4e7cc44f42622f7414463e190ebca3e900adb79c444421ce04f"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_all_triplets_contracts.py",
+    "bytes": 3448,
+    "sha256": "0f7ce32c2634460ea903fb92f4a1ad604b9404f8c532a0772c320977ee0fb510"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_prequential_single_slot.py",
+    "bytes": 4214,
+    "sha256": "c06d6b0ecec8e3c893875d7f02ac4bd52d9296e0ffa6380067feeb64b1df439f"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_val9_future10.py",
+    "bytes": 5332,
+    "sha256": "99b8f4171cf86509792b854b2cf9bf367cbd7b985dfcde4f4b7f44997ec5629d"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_target_concentration.py",
+    "bytes": 1614,
+    "sha256": "ca828faa33f5d0f774f8b97018cf82d38e8176d2befde5b5fe332a0b95255bc1"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_official_subject_bootstrap.py",
+    "bytes": 4584,
+    "sha256": "bdd54e4f36f047704df3d8add7c8f92cb968ff86aa72618c0df32db1a42874a2"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_concentration_reversal.py",
+    "bytes": 1790,
+    "sha256": "5d1ce3dec733797153dcdaa8c44104424e1ddf2534639bb2c72f5d23df6b20f3"
+  },
+  {
+    "depth": 5,
+    "path": "04_code/r538_gas_reversal_audit.py",
+    "bytes": 3330,
+    "sha256": "459e26125833d09ebb9af52b0a48a917721d6403a9d014c054e5583558e8784c"
+  },
+  {
+    "depth": 8,
+    "path": "05_code/R535_FINITE_SAMPLE_CERTIFICATE_PYTHON_STDLIB.py",
+    "bytes": 912,
+    "sha256": "6003dd44f9746ce5787c78ab93b68acc01f3fdfae2828e8869c3f731253480f8"
+  },
+  {
+    "depth": 9,
+    "path": "06_code/R534_exact_robustness_verify.py",
+    "bytes": 2225,
+    "sha256": "82061630b230f039161d307be5061e4f3a99afff3e45cb0dfb68fa2ec3e7f72e"
+  },
+  {
+    "depth": 11,
+    "path": "02_复算代码/R532_concentration_standardization.py",
+    "bytes": 6198,
+    "sha256": "f563e57b6a5eddd9a405e327f4abea1f25491f3e98673b840fc8880db62824f9"
+  },
+  {
+    "depth": 11,
+    "path": "02_复算代码/R532_forward_budget_optimization.py",
+    "bytes": 7257,
+    "sha256": "f03f453310d37a0da23a1a792a8e8da847f4efc0557e34ac9580b4586ef59ba4"
+  },
+  {
+    "depth": 11,
+    "path": "02_复算代码/R532_exact_capacity_certificates.py",
+    "bytes": 1513,
+    "sha256": "4f662dc2e537a4ffa015e89587b107b577d82de57fd131ee6218809c235424ac"
+  },
+  {
+    "depth": 11,
+    "path": "02_复算代码/R532_cost_frontier.py",
+    "bytes": 2227,
+    "sha256": "9571715ad33b9ff2e23fc2b5c8c0af47cca5ebc856791aae6c5b3e6c195ac13e"
+  },
+  {
+    "depth": 11,
+    "path": "02_复算代码/R532_action_specific_TV.py",
+    "bytes": 5162,
+    "sha256": "52721afed6c3fe121fc8bcbebc08f76f10a787a31652d7b195b83fdc04f5b583"
+  },
+  {
+    "depth": 12,
+    "path": "02_复算代码/R531_prequential_validation.py",
+    "bytes": 4185,
+    "sha256": "f6c118682d255c74100a569d2e48adcd0f68e2032625fd4110ae5fb9b849ff58"
+  },
+  {
+    "depth": 12,
+    "path": "02_复算代码/R531_physical_sensor_portfolios.py",
+    "bytes": 4158,
+    "sha256": "76f6d745accdba14a94303d88a8bcdbd577e0ea47da955821bf41cbdcf3f2920"
+  },
+  {
+    "depth": 13,
+    "path": "02_可复算代码/R530_UCI_HAR_external.py",
+    "bytes": 13858,
+    "sha256": "45abfae595b8a4e0940b1ec129a7368aa658674a475d3fd8c58bbbb3fd9a7b71"
+  },
+  {
+    "depth": 13,
+    "path": "02_可复算代码/R530_heldout_subject_bootstrap.py",
+    "bytes": 4407,
+    "sha256": "0750e4af57508b69cd7a15cfc1a40575ce7cf13df56b39f9f3a09c6ac5de13b2"
+  },
+  {
+    "depth": 14,
+    "path": "02_可复算代码/R529_multi_decision.py",
+    "bytes": 10814,
+    "sha256": "f08c95bc1f24f050dbe892472012278235ff9eb576ee200dddfeaef2818b704a"
+  },
+  {
+    "depth": 14,
+    "path": "02_可复算代码/R529_budget_robustness.py",
+    "bytes": 4508,
+    "sha256": "7e5531e231fb91f5aa110f657b09f563f3933259f98ca16500a4e0ce325b02c3"
+  },
+  {
+    "depth": 14,
+    "path": "02_可复算代码/R529_global_minimax.py",
+    "bytes": 4840,
+    "sha256": "e7c3aef585c91baa2246a030dc58a014bb9f87e9580b35f36397c4c3c2ad6e65"
+  },
+  {
+    "depth": 15,
+    "path": "03_可复算代码/R528_exact_R524_certificate.py",
+    "bytes": 3365,
+    "sha256": "fae538a6f88469c7e1d397ec70ee726f9944900c40252bd5a8306b1003b6ae3c"
+  },
+  {
+    "depth": 15,
+    "path": "03_可复算代码/R528_VERIFY_EXACT_PURE_PYTHON.py",
+    "bytes": 3346,
+    "sha256": "dcdedb9807657d30d2f6f12778dc1308d8efcf1287b8aabb217f3e0d74bcbe43"
+  },
+  {
+    "depth": 17,
+    "path": "02_分析代码_不需要运行/r526_natural_resplit.py",
+    "bytes": 7028,
+    "sha256": "0654f1d8e3345551a7db6df123c9bee9e189c7a1d230d515b39cf1cec2587a00"
+  },
+  {
+    "depth": "R545",
+    "path": "R544_FULL_R_REPLAY_CORRECTED.R",
+    "bytes": 13805,
+    "sha256": "8f26c7448b4afce34fa869282094fdcb1972db31841a980488fae56a14725318"
+  },
+  {
+    "depth": "V4",
+    "path": "PLOTTING_CODE/prepare_source_data.py",
+    "bytes": 20835,
+    "sha256": "56fec4e094cd36c868d206445209e32344b72d1888fc29567850ed30aeee04bd"
+  },
+  {
+    "depth": "V4",
+    "path": "PLOTTING_CODE/audit_panel_alignment.py",
+    "bytes": 39364,
+    "sha256": "43958e6b49d897f326ff64e73cbed0bf057e17c06533b5b57d3dededf8111e76"
+  },
+  {
+    "depth": "V4",
+    "path": "PLOTTING_CODE/figure_engine.py",
+    "bytes": 25539,
+    "sha256": "13c975e3ae3eb37ccf97a97bd70d804c363d0a19e697493d5c3cc615666351e7"
+  },
+  {
+    "depth": "V4",
+    "path": "PLOTTING_CODE/main_figures.py",
+    "bytes": 22911,
+    "sha256": "ec9d7a10006c53b05a2e679bd254a281b385c9fa59cc5078f023570ca72a8ebf"
+  },
+  {
+    "depth": "V4",
+    "path": "PLOTTING_CODE/make_figures.py",
+    "bytes": 25870,
+    "sha256": "6b571e3ce9ae5e1e34eaf7d17840ff897106a7c4eb4b66580106a6685eda3820"
+  },
+  {
+    "depth": 12,
+    "path": "02_复算代码/R531_gas_temporal_external.py",
+    "bytes": 10824,
+    "sha256": "92e9d213928797c163b6c5088e334a11fcc97f6a858edb1aa1ad4be422f2dab3"
+  }
+]
